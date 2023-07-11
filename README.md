@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-I am a Software Development Engineer from Hungary with 5+ years of experience. Working in NodeJS, React (TypeScript), Java (EE,Spring), PHP Programming Languages.
+I am a Software Development Engineer from Hungary with 6+ years of experience. Working in NodeJS, React (TypeScript), Java (EE,Spring), PHP Programming Languages.
 I currently work on Cisco Systems telephony solutions, IoT hardware and software development, native mobile applications and web development.
 I have completed the EC Council Certified Ethical Hacker course and am improving the code quality and code-level security of my team.
 I have worked for many large corporations and nationally owned companies over the years. like:
