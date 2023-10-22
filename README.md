@@ -25,8 +25,9 @@ I have worked for many large corporations and nationally owned companies over th
   - <a href="https://linkedin.com/in/tamas-csizmadia" target="_blank">:baggage_claim: tamas.csizmadia</a>
 - :globe_with_meridians: Portfolio
     #### Websites
-  - <a href="https://pillabazis.hu" target="_blank">:earth_americas: PillaBázis</a>  
-    #### My own custom CMS system (PHP)
+  - <a href="https://pillabazis.hu" target="_blank">:earth_americas: PillaBázis</a>
+
+  #### My own custom CMS system (PHP)
   - <a href="https://fehervariablak.hu" target="_blank">:earth_americas: Fehérváriablak.hu</a>
   - <a href="https://albusambulance.hu" target="_blank">:earth_americas: Albus Ambulance</a>
   - <a href="https://ergo-ambulance.hu" target="_blank">:earth_americas: Ergo-ambulance</a>
