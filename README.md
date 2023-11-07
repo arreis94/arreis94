@@ -4,22 +4,7 @@
 I am a Software Development Engineer from Hungary with 6+ years of experience. Working in NodeJS, React (TypeScript), Java (EE,Spring), PHP Programming Languages.
 I currently work on Cisco Systems telephony solutions, IoT hardware and software development, native mobile applications and web development.
 I have completed the EC Council Certified Ethical Hacker course and am improving the code quality and code-level security of my team.
-I have worked for many large corporations and nationally owned companies over the years. like:
-  - Budapest Ferenc Liszt International Airport
-  - Raiffeisen Bank
-  - MÁV - Magyar Államvasutak Zrt
-  - MOL
-  - LIDL
-  - KTI - Magyar Közlekedéstudományi és Logisztikai Intézet
 
-##
-- 🔭 I’m currently working on ...
-  - Cisco Finesse Typescript Library
-  - Multiplatform mobile app in Kotlin
-- :dizzy: I'm currently learning ...
-  - Kotlin
-  - Jetpack Compose
-  - XCode, Swift
 - 📫 How to reach me:
   - <a href="mailto:tamas.csizmadia94@gmail.com">:e-mail: tamas.csizmadia94</a>
   - <a href="https://linkedin.com/in/tamas-csizmadia" target="_blank">:baggage_claim: tamas.csizmadia</a>
