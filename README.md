@@ -13,7 +13,6 @@ I currently work on Cisco/Microsoft/Genesys Systems telephony solutions, IoT har
 
   #### My own custom CMS system (PHP)
   - <a href="https://fehervariablak.hu" target="_blank">:earth_americas: Fehérváriablak.hu</a>
-  - <a href="https://albusambulance.hu" target="_blank">:earth_americas: Albus Ambulance</a>
   - <a href="http://envirotrans.hu" target="_blank">:earth_americas: Enviro-Trans Kft.</a>
 - :golf: Playground
   - [:bullettrain_front: Train station - Three.js](https://arreis94.github.io/train-station-three-js)
